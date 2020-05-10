@@ -1,0 +1,426 @@
+Level 1
+###########
+####  .#  #
+#### # $. #
+####  $#  #
+#@$.   ## #
+#   ###   #
+#   ###   #
+###########
+drrurrrUURlddllldlluR
+Moves: 21
+Pushes: 4
+BoxLines: 2
+
+Level 2
+###########
+####   #  #
+####$# @  #
+####   #  #
+# ..$  ## #
+#   ###.$ #
+#   ###   #
+###########
+lddlLLrurruullDDrdLurrurrrdddL
+Moves: 30
+Pushes: 6
+BoxLines: 4
+
+Level 3
+###########
+####  .# .#
+#### #  $ #
+#### $ #  #
+# @ .  ## #
+# $ ###   #
+#   ###   #
+###########
+rruRdrUUrRdrUlllddlllddlUluRR
+Moves: 29
+Pushes: 8
+BoxLines: 6
+
+Level 4
+###########
+####   #  #
+#### #   @#
+#### $ #  #
+#    . ## #
+#$  ### $.#
+#.  ###   #
+###########
+llldLdllllDurrrUrruullDDrdLLdlluRRRurrurrrddddlluR
+Moves: 50
+Pushes: 11
+BoxLines: 7
+
+Level 5
+###########
+####  .#  #
+#### #  $ #
+#### $ # .#
+#  $ . ## #
+#   ###   #
+# @ ###   #
+###########
+uuRRuuurrdddLLuRdrUdllLdlluRRRurrUrRurD
+Moves: 39
+Pushes: 13
+BoxLines: 9
+
+Level 6
+###########
+####   # .#
+####$#@$  #
+####   #  #
+#. .   ## #
+# $ ###   #
+#   ###   #
+###########
+RRdrUlllullDDrdLLLrddlluRdrU
+Moves: 28
+Pushes: 10
+BoxLines: 6
+
+Level 7
+###########
+####   #  #
+#### #.   #
+####  $#  #
+#  @   ## #
+# $.### $ #
+#   ###  .#
+###########
+lldRurruuurrdrrrddddlluRdrUUUluurDDDDuuulllullddrdrU
+Moves: 52
+Pushes: 10
+BoxLines: 5
+
+Level 8
+###########
+####   # .#
+####.# $  #
+#### $ #  #
+# @ $. ## #
+#   ###   #
+#   ###   #
+###########
+rRuuurrdRRdrUllldLrdLLLdlluRRRU
+Moves: 31
+Pushes: 12
+BoxLines: 6
+
+Level 9
+###########
+####   #  #
+#### # $  #
+#### $ #  #
+#.  @  ##.#
+# $.###   #
+#   ###   #
+###########
+rruLruRRurDDulllulldDrdLLLrddlluR
+Moves: 33
+Pushes: 10
+BoxLines: 6
+
+Level 10
+###########
+####   #  #
+####.# @  #
+####$  #  #
+#    . ## #
+# $ ### $.#
+#   ###   #
+###########
+lddlllddlUluRRRUrrurrrddddlluR
+Moves: 30
+Pushes: 6
+BoxLines: 3
+
+Level 11
+###########
+####.$ # .#
+#### #    #
+#### @ #  #
+#  .$  ## #
+#   ### $ #
+#   ###   #
+###########
+dLurruuLrdrrrddddlluRdrUUUU
+Moves: 27
+Pushes: 7
+BoxLines: 4
+
+Level 12
+###########
+#### @ #  #
+#### # $  #
+####$  # .#
+# $.  .## #
+#   ###   #
+#   ###   #
+###########
+rdRRurDlllddllldlluRRRRuruulldDrdL
+Moves: 34
+Pushes: 9
+BoxLines: 5
+
+Level 13
+###########
+####   #  #
+####.#    #
+####$$ #  #
+#.     ##.#
+#   ### $ #
+# @ ###   #
+###########
+uurrrruuulldDuurrddLdLLLrrUrrurrrddddlluRdrU
+Moves: 44
+Pushes: 8
+BoxLines: 6
+
+Level 14
+###########
+####.  # @#
+####$#    #
+####   #  #
+#  $ . ## #
+# $ ###   #
+#  .###   #
+###########
+dlllddllLddlluRluRRDuRuU
+Moves: 24
+Pushes: 7
+BoxLines: 5
+
+Level 15
+###########
+####   #  #
+#### #  $ #
+####$  #  #
+#@   . ##.#
+# $.###   #
+#   ###   #
+###########
+rrrUrruullDDrdLLddlluRluRRRurrurRurDD
+Moves: 37
+Pushes: 12
+BoxLines: 7
+
+Level 16
+###########
+####  .#  #
+####.#    #
+####$$ #  #
+#   .  ## #
+#  $###@  #
+#   ###   #
+###########
+rruuulllddllURdrUUddllllddrUluR
+Moves: 31
+Pushes: 6
+BoxLines: 4
+
+Level 17
+###########
+####.$ #  #
+#### #    #
+####   #  #
+#.  .  ## #
+# $$###   #
+#   ### @ #
+###########
+uruuullluLrdddlllllddrrULdlUruR
+Moves: 31
+Pushes: 5
+BoxLines: 4
+
+Level 18
+###########
+####  .#  #
+#### #  @ #
+#### $ #  #
+#      ##.#
+#$  ### $ #
+#.  ###   #
+###########
+llddlllllDurrruRdrUUrrrddddlluRdrU
+Moves: 34
+Pushes: 6
+BoxLines: 5
+
+Level 19
+###########
+####  .#  #
+#### #    #
+####@$ # .#
+#    . ## #
+#  $### $ #
+#   ###   #
+###########
+RdrUdllllddrUluRRurrUrrrddddlluRdrUU
+Moves: 36
+Pushes: 9
+BoxLines: 7
+
+Level 20
+###########
+####  @#  #
+#### #$   #
+####   #  #
+#  .  .##.#
+# $ ### $ #
+#   ###   #
+###########
+DrrrddddlluRdrUUUluurDDulllDldllddlUluR
+Moves: 39
+Pushes: 10
+BoxLines: 7
+
+Level 21
+###########
+####   #  #
+#### #  $ #
+####  $#. #
+#  .  .## #
+#  $###   #
+#   ###  @#
+###########
+uuuuulDllDldlllddrU
+Moves: 19
+Pushes: 3
+BoxLines: 3
+
+Level 22
+###########
+####   #  #
+#### # $. #
+####   #  #
+# @ $. ## #
+# $ ###   #
+#  .###   #
+###########
+DldRuurRurruR
+Moves: 13
+Pushes: 4
+BoxLines: 4
+
+Level 23
+###########
+####   #  #
+#### #  $.#
+####$ @#  #
+#   .. ## #
+#  $###   #
+#   ###   #
+###########
+dllllddrUluRRUrrurRllullDD
+Moves: 26
+Pushes: 7
+BoxLines: 4
+
+Level 24
+###########
+####   #  #
+####.# $  #
+####$  #  #
+# . @$ ## #
+#   ###  .#
+#   ###   #
+###########
+UrrdLLLrurruRRurDDD
+Moves: 19
+Pushes: 9
+BoxLines: 4
+
+Level 25
+###########
+####   #  #
+#### # $ .#
+####$  #  #
+#  . @ ## #
+#   ### $.#
+#   ###   #
+###########
+uruulldDrdLurruRRdrdddlluR
+Moves: 26
+Pushes: 5
+BoxLines: 4
+
+Level 26
+###########
+####.  #  #
+#### #    #
+####$  # .#
+# @$.  ## #
+#   ### $ #
+#   ###   #
+###########
+RRUUdrrdLururrrddddlluRdrUU
+Moves: 27
+Pushes: 8
+BoxLines: 5
+
+Level 27
+###########
+####@  #  #
+####.#    #
+#### $ #  #
+# .    ##.#
+#  $### $ #
+#   ###   #
+###########
+rrddLdlllddrUluRRUrrdLLLrurrurrrddddlluRdrU
+Moves: 43
+Pushes: 10
+BoxLines: 6
+
+Level 28
+###########
+####   #. #
+#### #  $ #
+####   #@ #
+#. $   ## #
+#.$ ###   #
+#   ###   #
+###########
+UllddllLLrdL
+Moves: 12
+Pushes: 4
+BoxLines: 3
+
+Level 29
+###########
+####   #  #
+#### # $  #
+####$  #  #
+#. .@  ## #
+#$$ ###   #
+# . ###  .#
+###########
+lddllUdrruulDurrUrruullDDrdLurruRRurDDDD
+Moves: 40
+Pushes: 12
+BoxLines: 7
+
+Level 30
+###########
+####   #  #
+####@#$  .#
+####$  #  #
+#  .  .## #
+# $ ### $ #
+#  .###   #
+###########
+DuurrDrrrddddlluRdrUUUlullDldLLddlluuRDldR
+Moves: 42
+Pushes: 12
+BoxLines: 8
+
+Max Moves: 52
+Min Moves: 12
+Max Pushes: 13
+Min Pushes: 3
+Max BoxLines:  9
+Min BoxLines: 2
